@@ -259,14 +259,14 @@ provided to help guide planning and decision-making.
 
 <!-- links -->
 
-[badge-lnk]: https://actions-badge.atrox.dev/carpentries-incubator/hpc-intro/goto?ref=gh-pages
-[badge-img]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fcarpentries-incubator%2Fhpc-intro%2Fbadge%3Fref%3Dgh-pages&style=flat
+[badge-lnk]: https://actions-badge.atrox.dev/hpc-carpentry/hpc-intro/goto?ref=gh-pages
+[badge-img]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fhpc-carpentry%2Fhpc-intro%2Fbadge%3Fref%3Dgh-pages&style=flat
 [ex-lesson]: https://github.com/carpentries/lesson-example
 [setup]: https://carpentries.github.io/lesson-example/setup.html
 [liquid]: https://shopify.github.io/liquid/
-[upstream]: https://github.com/carpentries-incubator/hpc-intro
+[upstream]: https://github.com/hpc-carpentry/hpc-intro
 [mpi4py]: https://mpi4py.readthedocs.io
-[extras]: https://github.com/carpentries-incubator/hpc-intro/tree/gh-pages/_extras
+[extras]: https://github.com/hpc-carpentry/hpc-intro/tree/gh-pages/_extras
 [hpcday-fs]: https://github.com/psteinb/hpc-in-a-day/blob/gh-pages/_episodes/01-04-shared-filesystem.md
 [hpcday-sched]: https://psteinb.github.io/hpc-in-a-day/02-02-advanced-job-scheduling
 

@@ -12,21 +12,9 @@ These are described below.
 
 ### GitHub
 
-#### Carpentries-Incubator Project
-
-HPC-Intro is currently on [GitHub][hpc-intro]. You need a GitHub
-account to contribute. In addition, in order to get write access to
-the repository ("repo"), you will need to become a member of the HPC
-Intro Maintainers team, which lives inside the "carpentries-incubator"
-[project][incubator-base].
-
-See also the instructions for [contributing](CONTRIBUTING.md).
-
-#### HPC-Carpentry Project
-
-There is also an HPC Carpentry [GitHub project][project-github], which
-has other HPC-related lessons repos in its scope, and separate teams
-of maintainers and administrators.
+The HPC Carpentry [GitHub organisation][project-github] contains the source repositories for all HPC Carpentry lessons.
+Each of these lesson projects has its own team of maintainers and administrators.
+The HPC Carpentry organisation also includes several other repositories related to the project.
 
 In particular, there is a "coordination" [repo][coord-repo], which is
 a good scope for issues and concerns for the HPC carpentry community
@@ -39,7 +27,7 @@ of the HPC Carpentry community.
 ### Slack
 
 The main Carpentries Slack channel is reachable at
-[swcarpentry.slack.com][swc-slack]. To become a member, you can
+[carpentries.slack.com][swc-slack]. To become a member, you can
 trigger in invitation from [the slack invitation link][slack-invite].
 
 You can go directly to the HPC Carpentry sub-channel at
@@ -86,13 +74,12 @@ assigned to `CHECKERS` near the bottom of `bin/lesson_check.py`.
 
 <!-- Reference -->
 
-[hpc-intro]: https://github.com/carpentries-incubator/hpc-intro
-[incubator-base]: https://github.com/carpentries-incubator
+[hpc-intro]: https://github.com/hpc-carpentry/hpc-intro
 [project-github]: https://github.com/hpc-carpentry
 [coord-repo]: https://github.com/hpc-carpentry/coordination
 [mainsite-repo]: https://github.com/hpc-carpentry/hpc-carpentry.org
-[swc-slack]: https://swcarpentry.slack.com
-[hpc-slack]: https://swcarpentry.slack.com/#hpc-carpentry
-[slack-invite]: https://swc-slack-invite.herokuapp.com
+[swc-slack]: https://carpentries.slack.com
+[hpc-slack]: https://carpentries.slack.com/#hpc-carpentry
+[slack-invite]: https://slack-invite.carpentries.org
 [topicbox]: https://carpentries.topicbox.com
 [zenodo]: https://zenodo.org/
