@@ -33,7 +33,7 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries-incubator/hpc-intro'
+source: 'https://github.com/hpc-carpentry/hpc-intro'
 
 # Default branch of your lesson
 branch: 'main'
@@ -116,7 +116,7 @@ workbench_base_customization: HPCC_MagicCastle_slurm
 # 2. a new workbench_overlay_customization config option in this file.
 
 carpentry_description: Lesson Description
-url: 'https://carpentries-incubator.github.io/hpc-intro/'
+url: 'https://hpc-carpentry.github.io/hpc-intro/'
 analytics: carpentries
 lang: en
 
